@@ -26,6 +26,8 @@
 //              Loop breaks on -1 (and 0 is invalid) and since i was unsigned int it 
 //              never really reached -1  
 
+// Time taken is long 1 hr
+
 #include <iostream>
 #include <string>
 
