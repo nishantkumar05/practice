@@ -62,4 +62,5 @@ B)
 
 
 Answer hints:
-A.2. ArrayList, aka DynamicArray like std::vector insertion time
+A.2.a ArrayList, aka DynamicArray like std::vector insertion time
+A.2.b page #89 
