@@ -1,0 +1,65 @@
+Questions... 
+
+A) BIG-O
+1- Asymptotic time and space complexity. What is asymptotic?
+2- Amortized time complexity. What is amortized? 
+  a) Give an example of popular aglorithm that has amortized time compelxity with O(1)
+  b) Calculate time complexity of above algorithm O(1)
+3- List common time complexity (and their names) Big-O notations in increasing order. (hint: o(1), O(log n)..)
+4- Time complexity of String concatenation 
+
+B) 
+1- List type of DS you know and how are they implemented e.g. priority queues using trees or arrays etc
+2- What does it mean by compiler/platform/machine dependent aspect of language? eg. short is gauranteed to be shorter than long int but size is platform dependent?
+3- How to calcualte median?
+4- List compiler steps. Basic and detailed
+5- Binary programs memory anatomy?
+6- String fundamentals. What are string types, how are they stored in memory. What is encoding? What are some standards and encoding. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Answer hints:
+A.2. ArrayList, aka DynamicArray like std::vector insertion time
